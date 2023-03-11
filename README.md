@@ -21,5 +21,5 @@
 </div>
 
 ##
-    <p>Aluno Instituto Proa</p>
-    <p>Email:guicamargodev@hotmail.com</p>
+    Aluno Instituto Proa
+    Email:guicamargodev@hotmail.com
