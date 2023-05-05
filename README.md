@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Camargo
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B816F0&size=35&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+Guilherme+Camargo;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div>
     <a href="https://beacons.ai/GuiCamargoDev" display="inline_block">
