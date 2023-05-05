@@ -30,7 +30,3 @@
 ##
     Aluno Instituto Proa
     Email:guicamargodev@hotmail.com
-    
-##
-
-![Snake animation](https://github.com/GuiCamargoDev/GuiCamargoDev/blob/output/github-contribution-grid-snake.svg)
