@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B816F0&size=35&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+Guilherme+Camargo;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-<div>
-    <a href="https://beacons.ai/GuiCamargoDev" display="inline_block">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiCamargoDev&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCamargoDev&hide_progress=false&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiCamargoDev&show_icons=true&count_private=true&hide_border=true&title_color=0E8AE6&icon_color=0E8AE6&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCamargoDev&layout=compact&hide_border=true&title_color=0E8AE6&text_color=0E8AE6&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
