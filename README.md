@@ -32,6 +32,8 @@
     <a href="http://Wa.me//+5511942443708" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
+![Snake Game](https://github.com/GuiCamargoDev/GuiCamargoDev/blob/output/github-contribution-grid-snake.svg)
+
 ##
     Aluno Instituto Proa
     Email:guicamargodev@hotmail.com
