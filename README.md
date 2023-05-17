@@ -41,4 +41,6 @@
     Aluno Instituto Proa
     Email:guicamargodev@hotmail.com
   
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=B135FC&section=footer" />
+  
 </div>
