@@ -1,3 +1,6 @@
+<div align=center>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B816F0&size=35&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+Guilherme+Camargo;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -27,6 +30,7 @@
 ##
 
 <div align= "center">
+  
     <a href="https://www.instagram.com/camargoggui" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/guilherme-camargo-a2b2841ab" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="http://Wa.me//+5511942443708" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -37,3 +41,5 @@
 ##
     Aluno Instituto Proa
     Email:guicamargodev@hotmail.com
+  
+  </div>
