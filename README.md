@@ -1,5 +1,5 @@
 <div align=center>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=B135FC" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B816F0&size=35&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+Guilherme+Camargo;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
