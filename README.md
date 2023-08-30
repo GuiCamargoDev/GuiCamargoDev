@@ -37,7 +37,7 @@
 </div>
 
 ##
-Aluno Instituto Proa<br>
+Ex Aluno Instituto Proa<br>
 Email: guilacam12@hotmail.com
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=B135FC&section=footer" />
