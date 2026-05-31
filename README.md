@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=B135FC" />
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiCamargoDev&show_icons=true&count_private=true&hide_border=true&title_color=0E8AE6&icon_color=0E8AE6&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCamargoDev&layout=compact&hide_border=true&title_color=0E8AE6&text_color=0E8AE6&bg_color=0d1117" />
 </div>
 
