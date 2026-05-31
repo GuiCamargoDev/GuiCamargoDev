@@ -1,6 +1,8 @@
 <div align=center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=B135FC" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B816F0&size=35&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+Guilherme+Camargo;Seja+Bem-Vindo!;Estou+estudando+Defesa+Cibernética+na+Fiap+:%29)](https://git.io/typing-svg)
+
 <div align="center">  
 
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCamargoDev&layout=compact&hide_border=true&title_color=0E8AE6&text_color=0E8AE6&bg_color=0d1117" />
